@@ -11,3 +11,6 @@ data/
 venv/
 env/
 notebook/oist-data/*.csv
+notebook/oist_spark_cleaning.ipynb
+notebook/oist_spark_analysis_cleaned.ipynb
+notebook/cleaned-data/
