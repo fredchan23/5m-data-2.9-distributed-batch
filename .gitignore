@@ -6,3 +6,8 @@ output/*.db*
 __pycache__/
 data/
 .env
+.conda/
+.venv/
+venv/
+env/
+notebook/oist-data/*.csv
