@@ -119,8 +119,11 @@ dependencies:
       - attrs==25.4.0
       - contourpy==1.3.3
       - cycler==0.12.1
+      - db-dtypes
+      - dbt-bigquery
       - fastjsonschema==2.21.2
       - fonttools==4.62.0
+      - google-cloud-bigquery
       - jsonschema==4.26.0
       - jsonschema-specifications==2025.9.1
       - kiwisolver==1.5.0

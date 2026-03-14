@@ -14,3 +14,8 @@ notebook/oist-data/*.csv
 notebook/oist_spark_cleaning.ipynb
 notebook/oist_spark_analysis_cleaned.ipynb
 notebook/cleaned-data/
+dbt/
+notebook/oist_bigquery_end_to_end_analysis.ipynb
+notebook/oist_dbt_bigquery_workflow.ipynb
+bigqueryanalysisplan.md
+notebook/oist_spark_analysis_bigquery_dataproc.ipynb
